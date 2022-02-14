@@ -1,0 +1,10 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet"
+  },
+  "ConnectionStrings": {
+    "SampleDb": "Data Source=<server_address>; Initial Catalog=<db_name>;User Id=<user_id>;Password=<password>;"
+  }
+}
